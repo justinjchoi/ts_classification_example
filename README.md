@@ -2,7 +2,7 @@
 
 To run code:
 
-0) download Anaconda 
+0) download Anaconda Python 
 1) download ipynb and put it in C:\\User\\XXXXX 
 2) run: "jupyter notebook" on Anaconda Prompt or command line 
 
